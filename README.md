@@ -27,7 +27,7 @@ Usage:
 
 Clone the repository and navigate to the project directory. Run the script:
 
-    python password_vault.py
+    python final.py
 
 Follow the prompts to add, retrieve, update, or delete passwords.
 
